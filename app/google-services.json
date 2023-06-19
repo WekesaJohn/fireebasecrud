@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619827445853",
+    "project_id": "fireebaserealtime",
+    "storage_bucket": "fireebaserealtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619827445853:android:cc9e9fcf9f5e08be9acdb4",
+        "android_client_info": {
+          "package_name": "com.example.fireebaserealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619827445853-pnss50d06b5jecph7aemq9elkb54dc5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNVcWbMwMldhhmRDnKSBJZmyxeL05_J7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619827445853-pnss50d06b5jecph7aemq9elkb54dc5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
